@@ -28,9 +28,9 @@ Read the architecture overview here: [providiustech-overview](https://github.com
 
 ### Selected work
 
-- **ProvidiusTech** — multi-tenant AI support platform, live in production
-- **Sentinel** — full-stack web application, backend API at sub-150ms response time
-- **Hypertask** — Web3 application with Solana smart contract integration
+- **ProvidiusTech** - multi-tenant AI support platform, live in production
+- **Sentinel** - full-stack web application, backend API at sub-150ms response time
+- **Hypertask** - Web3 application with Solana smart contract integration
 
 ---
 
